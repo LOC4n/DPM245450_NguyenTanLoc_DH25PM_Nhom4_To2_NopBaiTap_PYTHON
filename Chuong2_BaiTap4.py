@@ -1,0 +1,3 @@
+'''
+Python hỗ trợ kiểu dữ liệu cơ bản như : int, float, String, ... 
+'''
