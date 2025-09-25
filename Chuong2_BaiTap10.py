@@ -1,3 +1,6 @@
+#Câu 10: Hãy viết ngắn gọn lại các lệnh dưới đây
+
+
 '''
 (a) `x = x + 1 => x += 1
 (b) `x = x / 2 => x /= 2
