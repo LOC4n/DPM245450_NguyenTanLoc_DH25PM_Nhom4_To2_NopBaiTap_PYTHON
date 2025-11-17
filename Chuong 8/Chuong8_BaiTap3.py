@@ -1,3 +1,8 @@
+#Câu 3: Cộng trừ nhân chia
+'''
+Yêu cầu:
+Thiết kế chương trình cộng trừ nhân chia như hình dưới đây:
+'''
 from tkinter import *
 def congAction():
  a=float(stringA.get())

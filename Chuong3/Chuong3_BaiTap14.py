@@ -5,6 +5,12 @@
 Yêu cầu:
 Cho biết bao nhiêu dấu * được in ra trên màn hình
 '''
-n = int(input("Nhập n: "))
-for i in range(1, n + 1):
-    print("*" * i)
+a = 0
+while a < 100:
+    b = 0
+    while b < 40:
+        if (a + b) % 2 == 0:
+            print('*', end='')
+        b += 1
+    print()
+    a += 1
