@@ -2,7 +2,7 @@
 
 '''
 Cau 1:Nhập bán kính đường tròn r. Tính và xuất chu vi, diện tích đường tròn tương ứng.
-HD: cv=2*π*r và dt=π*r*r
+HD: cv=2*π*r và dt=π*r*r.
 
 '''
 

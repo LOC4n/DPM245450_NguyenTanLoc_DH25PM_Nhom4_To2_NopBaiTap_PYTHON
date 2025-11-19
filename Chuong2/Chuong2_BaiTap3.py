@@ -2,7 +2,7 @@
 '''
 Yêu cầu:
 Viết chương trình nhập vào điểm ba môn Toán, Lý, Hóa của một học sinh. In ra
-điểm trung bình của học sinh đó với hai số lẻ thập phân.
+điểm trung bình của học sinh đó với hai số lẻ thập phân
 '''
 
 import math

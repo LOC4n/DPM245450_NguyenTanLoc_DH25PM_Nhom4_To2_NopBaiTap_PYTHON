@@ -10,7 +10,7 @@ HD:
 hour=(t/3600)%24
 Trang 18/84
 minute=(t%3600)/60
-second=(t%3600)%60 
+second=(t%3600)%60. 
 '''
 
 import math
